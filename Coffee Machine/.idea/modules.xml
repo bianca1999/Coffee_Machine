@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/An expression with large numbers/Coffee_Machine.Problems-An_expression_with_large_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/An expression with large numbers/Coffee_Machine.Problems-An_expression_with_large_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/An expression with large numbers/Coffee_Machine.Problems-An_expression_with_large_numbers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/An expression with large numbers/Coffee_Machine.Problems-An_expression_with_large_numbers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/An expression with large numbers/Coffee_Machine.Problems-An_expression_with_large_numbers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/An expression with large numbers/Coffee_Machine.Problems-An_expression_with_large_numbers.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Comparing numbers/Coffee_Machine.Problems-Comparing_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Comparing numbers/Coffee_Machine.Problems-Comparing_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Comparing numbers/Coffee_Machine.Problems-Comparing_numbers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Comparing numbers/Coffee_Machine.Problems-Comparing_numbers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Comparing numbers/Coffee_Machine.Problems-Comparing_numbers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Comparing numbers/Coffee_Machine.Problems-Comparing_numbers.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Double factorial/Coffee_Machine.Problems-Double_factorial.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Double factorial/Coffee_Machine.Problems-Double_factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Double factorial/Coffee_Machine.Problems-Double_factorial.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Double factorial/Coffee_Machine.Problems-Double_factorial.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Double factorial/Coffee_Machine.Problems-Double_factorial.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Double factorial/Coffee_Machine.Problems-Double_factorial.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.test.iml" />
+    </modules>
+  </component>
+</project>

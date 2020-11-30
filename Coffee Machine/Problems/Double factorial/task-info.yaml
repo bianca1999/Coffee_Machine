@@ -1,0 +1,25 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.math.BigInteger;
+
+    class DoubleFactorial {
+        public static BigInteger calcDoubleFactorial(int n) {
+            // type your java code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3474#comment
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    Main.java:24: error: incompatible types: int cannot be converted to BigInteger
+            System.out.println(DoubleFactorial.calcDoubleFactorial(val));
+                                                                   ^
+    Note: Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+    1 error
+  time: Fri, 27 Nov 2020 15:58:44 UTC
+record: -1
